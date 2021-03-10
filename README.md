@@ -5,5 +5,5 @@ Features
 ==========
  - Lightweight
  - Easy to learn
- - Not case sensitive
- - Not instruction's location sensitive
+ - Case insensitive
+ - Doesn't take into account the location of instructions in the code
