@@ -1,7 +1,0 @@
-StRiNg string = "vsem privet";
-double first_variable = 110.11;
-int second_variable = 10;
-int third_variable = first_variable * second_variable;
-
-println("FIRST VARIABLE: '" + string + "' | SECOND VARIABLE: " + first_variable);
-println("THIRD VARIABLE: '" + second_variable + "' | FOURTH VARIABLE: " + third_variable);
